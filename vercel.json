@@ -1,9 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/https://weather-app-azure-three-81.vercel.app/weather",
-      "destination": "/https://weather-app-azure-three-81.vercel.app/"
+      "source": "https://weather-app-azure-three-81.vercel.app/weather",
+      "destination": "https://weather-app-azure-three-81.vercel.app/"
     }
   ]
 }
-
